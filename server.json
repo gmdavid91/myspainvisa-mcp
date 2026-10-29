@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.myspainvisa/spain-visa",
+  "title": "My Spain Visa: Spain visa helper",
+  "description": "Spain visa rules 2026, Schengen 90/180 calculator and consulate wait times, by immigration lawyers",
+  "version": "1.0.0",
+  "websiteUrl": "https://myspainvisa.com/mcp/",
+  "icons": [
+    {
+      "src": "https://myspainvisa.com/mcp-icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://myspainvisa.com/api/mcp"
+    }
+  ]
+}
