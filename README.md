@@ -1,5 +1,7 @@
 # My Spain Visa MCP server
 
+[![Listed on AllMCPs](https://allmcps.com/api/badge/my-spain-visa?style=shield)](https://allmcps.com/mcp/my-spain-visa)
+
 Remote MCP server from My Spain Visa, an immigration law firm in Barcelona working since 2010. Ask your AI assistant about Spanish visas and it answers with figures from the BOE and from our own case files instead of guessing.
 
 Free. No account, no key. Streamable HTTP.
